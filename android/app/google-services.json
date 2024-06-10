@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "139646200556",
+    "project_id": "jouls-connect",
+    "storage_bucket": "jouls-connect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139646200556:android:7a2c0a779f5b28e86113c9",
+        "android_client_info": {
+          "package_name": "com.Jouls"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEeBA8UfAjcF2T5ooJBMzeVh_oq7-hTyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
