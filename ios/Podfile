@@ -7,7 +7,7 @@ require Pod::Executable.execute_command('node', ['-p',
 
 use_modular_headers!
 
-platform :ios, '12.0' # Updated minimum iOS version supported
+platform :ios, '13.0' # Updated minimum iOS version supported
 prepare_react_native_project!
 
 flipper_config = ENV['NO_FLIPPER'] == "1" ? FlipperConfiguration.disabled : FlipperConfiguration.enabled
